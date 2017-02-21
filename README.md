@@ -4,7 +4,8 @@
 
 笔记地址：[装饰器模式（Swift）](http://frankorz.com/2017/02/20/decorator-in-swift/)
 
-Decorator_start 文件夹中存放着初始项目，参考笔记前请下载看看源码。
+Decorator_start 文件夹中存放着初始项目，参考笔记前请下载本项目。
+
 Decorator_end 文件夹中存放着完成的项目。
 
 
